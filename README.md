@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🧠 AI/ML Engineer | Python | Deep Learning | GenAI
 📍 Pakistan
-📫 Reach me at: your@email.com
+📫 Reach me at: kamiltoor@email.com
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
