@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kamilrajpoot/kamilrajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Muhammad Kamil 👋
+
+🧠 AI/ML Engineer | Python | Deep Learning | GenAI
+📍 Pakistan
+📫 Reach me at: your@email.com
+
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+## 📊 GitHub Stats
+![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark)
+
+## 🚀 Featured Projects
+- 🚦 [Traffic Sign Recognition](https://github.com/kamilrajpoot/Traffic-Sign-Recognition-System) — 96%+ accuracy CNN + Groq LLM
+- 🎬 [Movie Recommendation RAG](https://github.com/kamilrajpoot/Movie-Recommendation-RAG-System) — FAISS + LLM, 20K+ movies
+- 🤖 [Virtual Assistant](https://github.com/kamilrajpoot/Virtual-Assistant-for-Desktop) — JARVIS-style AI
