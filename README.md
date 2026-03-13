@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 - 🚦 [Traffic Sign Recognition](https://github.com/kamilrajpoot/Traffic-Sign-Recognition-System) — 96%+ accuracy CNN + Groq LLM
-- 🎬 [Movie Recommendation RAG](https://github.com/kamilrajpoot/Movie-Recommendation-RAG-System) — FAISS + LLM, 20K+ movies
+- 🎬 [Movie Recommendation RAG](https://github.com/kamilrajpoot/Movie-Recommendation-RAG-System) — FAISS + LLM, 40K+ movies
 - 🤖 [Virtual Assistant](https://github.com/kamilrajpoot/Virtual-Assistant-for-Desktop) — JARVIS-style AI
