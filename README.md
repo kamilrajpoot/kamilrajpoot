@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Hi, I'm Muhammad Kamil 👋
 
 🧠 AI/ML Engineer | Python | Deep Learning | GenAI
-📍 Pakistan
 📫 Reach me at: kamiltoor@email.com
 
 ## 🔧 Tech Stack
@@ -28,7 +27,3 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark)
 
-## 🚀 Featured Projects
-- 🚦 [Traffic Sign Recognition](https://github.com/kamilrajpoot/Traffic-Sign-Recognition-System) — 96%+ accuracy CNN + Groq LLM
-- 🎬 [Movie Recommendation RAG](https://github.com/kamilrajpoot/Movie-Recommendation-RAG-System) — FAISS + LLM, 40K+ movies
-- 🤖 [Virtual Assistant](https://github.com/kamilrajpoot/Virtual-Assistant-for-Desktop) — JARVIS-style AI
