@@ -96,7 +96,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-teal-eight-rhyrd36nwh.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilrajpoot&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-teal-eight-rhyrd36nwh.vercel.app/api/top-langs/?username=kamilrajpoot&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
