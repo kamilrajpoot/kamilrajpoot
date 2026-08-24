@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🎓 BS in Artificial Intelligence, University of Management and Technology (2023 – 2027)
+- 🎓 BS in Artificial Intelligence
 - 🤖 Building AI/ML products — computer vision, deep learning, RAG systems, and AI agents
 - 💻 Full-stack developer, shipping MERN stack apps end-to-end (auth, admin panels, payments)
 - 📄 Co-authored **EffiHyViT-v2**, a comparative study benchmarking CNN, ViT, and hybrid
@@ -96,8 +96,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamilrajpoot&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamilrajpoot&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kamilrajpoot&theme=dark&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
